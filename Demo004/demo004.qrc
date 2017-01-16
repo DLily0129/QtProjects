@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Demo004">
+    <file>Resources/stop.png</file>
+    <file>Resources/play.png</file>
+  </qresource>
+</RCC>
