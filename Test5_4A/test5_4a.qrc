@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="help">
+    <file>Resources/t01ff6ed998d8b95204.png</file>
+  </qresource>
+  <qresource prefix="tool">
+    <file>Resources/t01fc862f64d1a8634c.png</file>
+  </qresource>
+</RCC>
