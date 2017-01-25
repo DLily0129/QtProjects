@@ -1,0 +1,29 @@
+<UI version="4.0" >
+ <class>Test11_5AClass</class>
+ <widget class="QMainWindow" name="Test11_5AClass" >
+  <property name="objectName" >
+   <string notr="true">Test11_5AClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Test11_5A</string>
+  </property>
+  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="test11_5a.qrc"/>
+ </resources>
+ <connections/>
+</UI>
