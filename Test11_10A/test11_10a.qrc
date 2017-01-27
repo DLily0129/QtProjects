@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Test11_10A">
+    <file>Resources/screenshot.png</file>
+    <file>Resources/save.png</file>
+  </qresource>
+</RCC>
